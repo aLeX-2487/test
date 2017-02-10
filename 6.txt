@@ -1,0 +1,19 @@
+<!DOCTYPE html>
+<html>
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1" />  
+	<title>修真院·任务1-九宫格</title>
+  <link href="style.css" rel="stylesheet" type="text/css">
+    	<style type="text/css">
+
+   	</style>
+</head>
+<body>
+   		<div class="wrap">
+      <div class="square"></div><div class="square"></div><div class="square"></div>
+      <div class="square"></div><div class="square"></div><div class="square"></div>
+      <div class="square"></div><div class="square"></div><div class="square"></div>
+   	</div>
+</body>
+</html>
